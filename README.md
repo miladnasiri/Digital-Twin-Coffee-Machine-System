@@ -2,7 +2,7 @@
 
 A bidirectional digital twin implementation demonstrating real-time synchronization between physical and digital states of a coffee machine system.
 
-![Digital Twin Dashboard](docs/images/dashboard.png)
+![Digital Twin Dashboard]([docs/images/dashboard.png](https://github.com/miladnasiri/Digital-Twin-Coffee-Machine-System/blob/main/docs/Screenshot%20from%202024-11-05%2017-14-29.png)
 
 ## Features
 
